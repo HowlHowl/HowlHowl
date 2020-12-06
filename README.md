@@ -1,6 +1,6 @@
-### Hi there <img height="25" src="https://github.com/HowlHowl/HowlHowl/blob/main/assets/hi.gif"/>
+### Hi there! <img height="25" src="https://github.com/HowlHowl/HowlHowl/blob/main/assets/hi.gif"/>
 
-I'm a young software developer, ENFJ-A personality, system developer, christian, passionate to gaming and always up for a good challenge!
+I'm a young software developer, ENFJ-A personality, graphic designer, christian, passionate to gaming and always up for a good challenge!
 
 - 🔭 I’m currently working on a project in PHP 8 alongside with Laravel.
 - 🌱 I’m currently learning majoring at Computer Science at Instituto Federal de Brasília (IFB).
