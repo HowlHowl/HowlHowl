@@ -3,7 +3,7 @@
 I'm a young software developer, ENFJ-A personality, graphic designer, christian, passionate to gaming and always up for a good challenge!
 
 - 🔭 I’m currently working on a project in PHP 8 alongside with Laravel.
-- 🌱 I’m currently learning majoring at Computer Science at Instituto Federal de Brasília (IFB).
+- 🌱 I’m currently learning majoring in Computer Science at Instituto Federal de Brasília (IFB).
 - 💬 Ask me about anything, I'm happy to help.
 - 📌 I live in Brasília, Brazil 🇧🇷
 
@@ -23,10 +23,12 @@ Favorite Languages
 <div>
 <img height="50" src="https://devicon.dev/devicon.git/icons/php/php-original.svg">
 <img height="50" src="https://devicon.dev/devicon.git/icons/laravel/laravel-plain-wordmark.svg">
+<img height="50" src="https://devicon.dev/devicon.git/icons/git/composer-original.svg">
 <img height="50" src="https://devicon.dev/devicon.git/icons/html5/html5-original-wordmark.svg">
 <img height="50" src="https://devicon.dev/devicon.git/icons/css3/css3-original-wordmark.svg">
 <img height="50" src="https://devicon.dev/devicon.git/icons/bootstrap/bootstrap-plain-wordmark.svg">
 <img height="50" src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg">
+<img height="50" src="https://devicon.dev/devicon.git/icons/typescript/typescript-original.svg">
 <img height="50" src="https://devicon.dev/devicon.git/icons/postgresql/postgresql-original-wordmark.svg">
 <img height="50" src="https://devicon.dev/devicon.git/icons/mysql/mysql-original-wordmark.svg">
 <img height="50" src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original-wordmark.svg">
@@ -36,6 +38,8 @@ Favorite Languages
 <img height="50" src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/r-lang.svg">
 <img height="50" src="https://devicon.dev/devicon.git/icons/python/python-original-wordmark.svg">
 <img height="50" src="https://devicon.dev/devicon.git/icons/cplusplus/cplusplus-original.svg">
+<img height="50" src="https://devicon.dev/devicon.git/icons/javascript/docker-plain-wordmark.svg">
+<img height="50" src="https://devicon.dev/devicon.git/icons/javascript/linux-original.svg">
 <img height="50" src="https://devicon.dev/devicon.git/icons/git/git-original-wordmark.svg">
 <img height="50" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg">
 </div>
