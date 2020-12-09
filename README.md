@@ -3,7 +3,7 @@
 I'm a young software developer, ENFJ-A personality, graphic designer, christian, passionate to gaming and always up for a good challenge!
 
 - 🔭 I’m currently working on a project in PHP 8 alongside with Laravel.
-- 🌱 I’m currently learning majoring in Computer Science at Instituto Federal de Brasília (IFB).
+- 🌱 I’m currently majoring in Computer Science at Instituto Federal de Brasília (IFB).
 - 💬 Ask me about anything, I'm happy to help.
 - 📌 I live in Brasília, Brazil 🇧🇷
 
