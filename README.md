@@ -2,8 +2,10 @@
 
 I'm a young software developer, ENFJ-A personality, graphic designer, christian, passionate to gaming and always up for a good challenge!
 
+- 👨‍💻 I’m currently working as an Integration Analyst at [GTPlan](https://gtplantech.com/).
+- 🎓 Graduated in Computer Science at Instituto Federal de Brasília (IFB).
 - 🔭 I’m currently working on a project in PHP 8 alongside with Laravel.
-- 🌱 I’m currently majoring in Computer Science at Instituto Federal de Brasília (IFB).
+- 🌱 Very interested in exploring new concepts about data analysis.
 - 💬 Ask me about anything, I'm happy to help.
 - 📌 I live in Brasília, Brazil 🇧🇷
 
@@ -21,25 +23,25 @@ Favorite Languages
 [![HowlHowl Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HowlHowl&layout=compact)](https://github.com/HowlHowl/)
 
 <div>
-<img height="50" src="https://devicon.dev/devicon.git/icons/php/php-original.svg">
-<img height="50" src="https://devicon.dev/devicon.git/icons/laravel/laravel-plain-wordmark.svg">
-<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/0e565980d0a51fe7736bb090fb394659febfbe58/icons/composer/composer-original.svg">
-<img height="50" src="https://devicon.dev/devicon.git/icons/html5/html5-original-wordmark.svg">
-<img height="50" src="https://devicon.dev/devicon.git/icons/css3/css3-original-wordmark.svg">
-<img height="50" src="https://devicon.dev/devicon.git/icons/bootstrap/bootstrap-plain-wordmark.svg">
-<img height="50" src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg">
-<img height="50" src="https://devicon.dev/devicon.git/icons/typescript/typescript-original.svg">
-<img height="50" src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original-wordmark.svg">
-<img height="50" src="https://devicon.dev/devicon.git/icons/react/react-original-wordmark.svg">
-<img height="50" src="https://devicon.dev/devicon.git/icons/angularjs/angularjs-plain-wordmark.svg">
-<img height="50" src="https://devicon.dev/devicon.git/icons/postgresql/postgresql-original-wordmark.svg">
-<img height="50" src="https://devicon.dev/devicon.git/icons/mysql/mysql-original-wordmark.svg">
-<img height="50" src="https://devicon.dev/devicon.git/icons/java/java-original-wordmark.svg">
-<img height="50" src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/r-lang.svg">
-<img height="50" src="https://devicon.dev/devicon.git/icons/python/python-original-wordmark.svg">
-<img height="50" src="https://devicon.dev/devicon.git/icons/cplusplus/cplusplus-original.svg">
-<img height="50" src="https://devicon.dev/devicon.git/icons/docker/docker-plain-wordmark.svg">
-<img height="50" src="https://devicon.dev/devicon.git/icons/linux/linux-original.svg">
-<img height="50" src="https://devicon.dev/devicon.git/icons/git/git-original-wordmark.svg">
-<img height="50" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg">
+<img height="50" src="assets/icons/php-original.svg">
+<img height="50" src="assets/icons/laravel-plain-wordmark.svg">
+<img height="50" src="assets/icons/composer-original.svg">
+<img height="50" src="assets/icons/html5-original-wordmark.svg">
+<img height="50" src="assets/icons/css3-original-wordmark.svg">
+<img height="50" src="assets/icons/bootstrap-plain-wordmark.svg">
+<img height="50" src="assets/icons/javascript-original.svg">
+<img height="50" src="assets/icons/typescript-original.svg">
+<img height="50" src="assets/icons/nodejs-original-wordmark.svg">
+<img height="50" src="assets/icons/react-original-wordmark.svg">
+<img height="50" src="assets/icons/angularjs-plain-wordmark.svg">
+<img height="50" src="assets/icons/postgresql-original-wordmark.svg">
+<img height="50" src="assets/icons/mysql-original-wordmark.svg">
+<img height="50" src="assets/icons/java-original-wordmark.svg">
+<img height="50" src="assets/icons/svg-logos/master/svg/r-lang.svg">
+<img height="50" src="assets/icons/python-original-wordmark.svg">
+<img height="50" src="assets/icons/cplusplus-original.svg">
+<img height="50" src="assets/icons/docker-plain-wordmark.svg">
+<img height="50" src="assets/icons/linux-original.svg">
+<img height="50" src="assets/icons/git-original-wordmark.svg">
+<img height="50" src="assets/icons/gnu_bash-ar21.svg">
 </div>
