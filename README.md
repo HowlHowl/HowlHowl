@@ -2,8 +2,10 @@
 
 I'm a young software developer, ENFJ-A personality, graphic designer, christian, passionate to gaming and always up for a good challenge!
 
+- 👨‍💻 I’m currently working as an Integration Analyst at [GTPlan](https://gtplantech.com/).
+- 🎓 Graduated in Computer Science at Instituto Federal de Brasília (IFB).
 - 🔭 I’m currently working on a project in PHP 8 alongside with Laravel.
-- 🌱 I’m currently majoring in Computer Science at Instituto Federal de Brasília (IFB).
+- 🌱 Very interested in exploring new concepts about data analysis.
 - 💬 Ask me about anything, I'm happy to help.
 - 📌 I live in Brasília, Brazil 🇧🇷
 
