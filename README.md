@@ -37,7 +37,7 @@ Favorite Languages
 <img height="50" src="assets/icons/postgresql-original-wordmark.svg">
 <img height="50" src="assets/icons/mysql-original-wordmark.svg">
 <img height="50" src="assets/icons/java-original-wordmark.svg">
-<img height="50" src="assets/icons/svg-logos/master/svg/r-lang.svg">
+<img height="50" src="assets/icons/r-original.svg">
 <img height="50" src="assets/icons/python-original-wordmark.svg">
 <img height="50" src="assets/icons/cplusplus-original.svg">
 <img height="50" src="assets/icons/docker-plain-wordmark.svg">
