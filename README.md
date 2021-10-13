@@ -34,7 +34,8 @@ Favorite Technologies
 <img height="50" src="assets/icons/gnu_bash-ar21.svg">
 </div>
 
-<h3>In my previous jobs I used</h3>
+------------
+<h3>Used in my previous projects</h3>
 
 <div>
 <img height="50" src="assets/icons/r-original.svg">
@@ -49,6 +50,7 @@ Favorite Technologies
 <img height="50" src="assets/icons/git-original-wordmark.svg">
 </div>
 
+------------
 <h3>I'm very enthusiast about</h3>
 
 <div>
