@@ -22,7 +22,7 @@ I'm a young software developer, ENFJ-A personality, graphic designer, christian,
 Favorite Technologies
 ------------
 
-<h3>I've been using on a daily basis:</h3>
+<h3>I've been using on a daily basis</h3>
 
 <div>
 <img height="50" src="assets/icons/php-original.svg">
